@@ -2,7 +2,7 @@
 
 namespace Basemkhirat\Elasticsearch;
 
-use Elasticsearch\ClientBuilder;
+use Elastic\Elasticsearch\ClientBuilder\ClientBuilder;
 use Illuminate\Support\Arr;
 
 /**
